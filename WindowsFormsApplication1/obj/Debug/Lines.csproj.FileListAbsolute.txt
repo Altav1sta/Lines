@@ -1,0 +1,15 @@
+H:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lines.csprojResolveAssemblyReference.cache
+H:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lines.csproj.GenerateResource.Cache
+H:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Lines.exe.config
+H:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Lines.exe
+H:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Lines.pdb
+H:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lines.Properties.Resources.resources
+H:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lines.exe
+H:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lines.pdb
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Lines.exe.config
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lines.exe
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Lines.pdb
+G:\lines\WindowsFormsApplication1\bin\Debug\Lines.exe.config
+G:\lines\WindowsFormsApplication1\obj\Debug\Lines.exe
+G:\lines\WindowsFormsApplication1\obj\Debug\Lines.pdb
